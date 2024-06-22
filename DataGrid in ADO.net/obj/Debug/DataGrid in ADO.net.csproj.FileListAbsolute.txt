@@ -1,0 +1,10 @@
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\bin\Debug\DataGrid in ADO.net.exe.config
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\bin\Debug\DataGrid in ADO.net.exe
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\bin\Debug\DataGrid in ADO.net.pdb
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid in ADO.net.csproj.AssemblyReference.cache
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid_in_ADO.net.Form1.resources
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid_in_ADO.net.Properties.Resources.resources
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid in ADO.net.csproj.GenerateResource.cache
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid in ADO.net.csproj.CoreCompileInputs.cache
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid in ADO.net.exe
+C:\Users\alesj\OneDrive\Namizje\4.6. c# project\DataGrid in ADO.net\obj\Debug\DataGrid in ADO.net.pdb
